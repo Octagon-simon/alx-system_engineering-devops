@@ -1,0 +1,3 @@
+#! /bin/bash
+STRING="This is a simple bash script."
+echo $STRING
